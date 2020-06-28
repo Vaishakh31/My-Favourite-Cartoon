@@ -1,0 +1,66 @@
+.nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+margin: 20px;
+padding: 10px;
+}
+
+
+  .link{
+      text-decoration: none;
+      color: black;
+      size: 1em;
+  }
+
+  .nav ul li {
+      margin: 0 20px;}
+
+      .part1{ 
+          background-color: black;
+          color: white;
+          text-align: center;
+           font-weight: 200;
+          }
+
+          h1{
+            font-size: 4em;
+        }
+        
+        h2{
+            font-size: 2.5em;
+        }
+        
+        h5{
+            font-size: 0.5em;
+        }
+
+        .cartoon{ 
+            color: white;
+            text-align: center;
+            padding: 50px 20px;
+        }
+        
+        #tomjerry{
+            background-color:orange;
+        }
+        h4{ 
+            font-size: 7em;
+        }
+
+        cartoon.img{
+            widows: 550px;
+            height: 300px;
+        }
+
+        #doremon{
+            background-color:orchid;
+        }
+
+        #shinchan{
+            background-color:deepskyblue;
+        }
+
+        
+
